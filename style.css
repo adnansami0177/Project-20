@@ -40,3 +40,41 @@
     background-color: green;
     color: white;
 }
+
+.Full-section h2{
+    margin: 40px;
+    text-align: center;
+    font-weight: 600;
+}
+
+
+.Box-Setup{
+    background-color: gray;
+    padding: 50px 5px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 25px 25px 40px -8px;
+    transition: transform 0.5s ease;
+}
+
+.Box-Setup:hover{
+    transform: translateX(10px);
+}
+
+.Full-section img{
+    margin-bottom: 20px;
+    width: 70px;
+    
+}
+
+.Full-section h5{
+    font-weight: 700;
+    font-size: 1.5rem;
+    
+}
+
+.Full-section p{
+    color: white;
+
+}
