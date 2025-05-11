@@ -78,3 +78,43 @@
     color: white;
 
 }
+
+.testomonian-Section{
+    background-color: #BBD6FD;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.testomonian-Section h2{
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+.testomonian-box{
+    background-color: #1E555C;
+    padding: 25px 0px;
+    margin-bottom: 20px;
+    width: 410px;
+    border-radius: 10px;
+    box-shadow: 20px -15px 30px -3px;
+    transition: transform 0.5s ease; ;
+}
+
+.testomonian-box:hover{
+    transform: translatey(10px);
+}
+
+.testomonian-box h5{
+    color: azure;
+    margin: 18px;
+    font-family: initial;
+    font-weight: 800;
+}
+
+.testomonian-box p{
+    color: azure;
+}
+.testomonian-box img{
+    border-radius: 50%;
+}
